@@ -47,10 +47,52 @@
     NSString* const JSON_KEY_AGENTEMAIL = @"agentEmail";
     NSString* const JSON_KEY_AGENTSTATUS = @"agentStatus";
 
-    NSString* const JSON_KEY_CLIENTCODE = @"clientCode";
-    NSString* const JSON_KEY_CLIENTNAME = @"clientName";
-    NSString* const JSON_KEY_CLIENTEMAIL = @"clientEmail";
-    NSString* const JSON_KEY_CLIENTSTATUS = @"clientStatus";
+    NSString* const JSON_KEY_SINO = @"salesIllustrationNo";
+    NSString* const JSON_KEY_PRODUCTNAME = @"productName";
+    NSString* const JSON_KEY_PRODUCTCODE = @"productCode";
+    NSString* const JSON_KEY_APPLICANT_NAME = @"applicantName";
+    NSString* const JSON_KEY_APPLICANT_DOB = @"applicantDOB";
+    NSString* const JSON_KEY_APPLICANT_GENDER = @"applicantGender";
+    NSString* const JSON_KEY_APPLICANT_SMOKER = @"applicantSmoker";
+    NSString* const JSON_KEY_APPLICANT_OCCUPATION = @"applicantOccupation";
+    NSString* const JSON_KEY_APPLICANT_NATIONALITY = @"applicantNationality";
+    NSString* const JSON_KEY_APPLICANT_INCOME = @"applicantAnnualIncome";
+    NSString* const JSON_KEY_APPLICANT_INDUSTRY = @"applicantIndustry";
+    NSString* const JSON_KEY_LA_SAMEPERSON = @"LASamePerson";
+    NSString* const JSON_KEY_LA_NAME = @"LAName";
+    NSString* const JSON_KEY_LA_DOB = @"LADOB";
+    NSString* const JSON_KEY_LA_GENDER = @"LAGender";
+    NSString* const JSON_KEY_LA_OCCUPATION = @"LAOccupation";
+    NSString* const JSON_KEY_LA_NATIONALITY = @"LANationality";
+    NSString* const JSON_KEY_LA_ANNUAL_INCOME = @"LAAnnualIncome";
+    NSString* const JSON_KEY_LA_INDUSTRY = @"LAIndustry";
+    NSString* const JSON_KEY_EMAIL = @"Email";
+    NSString* const JSON_KEY_PY_NAME = @"PYName";
+    NSString* const JSON_KEY_PY_DOB = @"PYDOB";
+    NSString* const JSON_KEY_PY_GENDER = @"PYGender";
+    NSString* const JSON_KEY_PY_OCCUPATION = @"PYOccupation";
+    NSString* const JSON_KEY_PY_NATIONALITY = @"PYNationality";
+    NSString* const JSON_KEY_PY_ANNUAL_INCOME = @"PYAnnualIncome";
+    NSString* const JSON_KEY_PY_INDUSTRY = @"PYIndustry";
+    NSString* const JSON_KEY_PAYMENT_MODE = @"PaymentMode";
+    NSString* const JSON_KEY_MODAL_PREM = @"ModalPrem";
+    NSString* const JSON_KEY_GST_AMOUNT = @"GSTAmt";
+    NSString* const JSON_KEY_MONTHLY_REC_TP_UP = @"MonthlyRecTpUp";
+    NSString* const JSON_KEY_INS_AMOUNT = @"InsAmt";
+    NSString* const JSON_KEY_TOTAL_PAYABLE = @"TotalPayable";
+    NSString* const JSON_KEY_FUND_CODE = @"FundCode";
+    NSString* const JSON_KEY_FUND_NAME = @"FundName";
+    NSString* const JSON_KEY_ALLOCATION = @"Allocation";
+    NSString* const JSON_KEY_RIDER_CODE = @"RiderCode";
+    NSString* const JSON_KEY_RIDER_NAME = @"RiderName";
+    NSString* const JSON_KEY_SUM_ASSURED = @"SumAssured";
+    NSString* const JSON_KEY_TERM = @"Term";
+    NSString* const JSON_KEY_PREMIUM = @"Premium";
+    NSString* const JSON_KEY_GST = @"GST";
+    NSString* const JSON_KEY_INS_CHARGE = @"InsCharge";
+    NSString* const JSON_KEY_NET_PAYABLE = @"NetPayable";
+
+
 
 
     /* TRAVEL */
